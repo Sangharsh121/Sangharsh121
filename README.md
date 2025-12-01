@@ -1,6 +1,11 @@
 # Welcome to Sangharsh Ghadse's GitHub Profile!
 
-Greetings! I'm Sangharsh Ghadse, a pre-final year student pursuing Computer Science and Engineering at Government College of Engineering Chandrapur. With a deep passion for coding and software development, I excel in both C++ and C languages. I also possess intermediate skills in Java and have a foundational understanding of Python. My GitHub repository is a reflection of my commitment to daily Hackerrank coding challenges, as well as a showcase for my academic coursework codes and personal projects.
+Greetings! I'm Sangharsh Ghadse, a Computer Science and Engineering graduate from Government College of Engineering, Chandrapur.
+With a strong passion for software development and problem-solving, I have built solid expertise in C++ and C, along with practical experience in Java, Python, and modern web technologies.
+
+My GitHub showcases a diverse collection of work—from algorithmic problem-solving and Hackerrank coding challenges to academic coursework, machine learning experiments, and full-stack project implementations. I enjoy turning ideas into efficient, scalable solutions and continuously sharpening my skills through real-world projects and collaborative development.
+
+I’m enthusiastic about contributing to impactful software projects, exploring new technologies, and growing as a developer in the ever-evolving tech ecosystem.
 
 ## About Me
 
